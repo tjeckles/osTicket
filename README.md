@@ -1,1 +1,1 @@
-# osTicket
+# Setting Up Azure VM
